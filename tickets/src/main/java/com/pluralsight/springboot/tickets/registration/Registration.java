@@ -1,4 +1,4 @@
-package com.pluralsight.springboot.tickets.events;
+package com.pluralsight.springboot.tickets.registration;
 
 public record Registration(Integer id,
                            Integer productId,
