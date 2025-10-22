@@ -1,0 +1,14 @@
+// Status: 200, time: 8ms, size: 109 B
+### requestAA
+GET http://localhost:8080/registrations/79861372-ea20-43c4-8bc7-6d50a6eb5492 HTTP/1.1
+content-type: application/json
+date: Wed, 22 Oct 2025 08:48:01 GMT
+transfer-encoding: chunked
+
+{
+  "id": 1,
+  "productId": 801,
+  "ticketCode": "79861372-ea20-43c4-8bc7-6d50a6eb5492",
+  "attendeeName": "TzoulianoGiazai"
+}
+>> C:\Learning Java\tickets\.idea\httpClient\10-22\requestAA\2025-10-22T114801.json

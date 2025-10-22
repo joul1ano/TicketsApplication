@@ -1,0 +1,6 @@
+// Size: 0 B
+### requestAA
+GET http://localhost:8080/registrations/79861372-ea20-43c4-8bc7-6d50a6eb5492 HTTP/1.1
+Accept: application/json
+Content-Length: 0
+

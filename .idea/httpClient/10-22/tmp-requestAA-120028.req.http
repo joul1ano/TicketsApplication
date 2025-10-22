@@ -1,0 +1,6 @@
+// Size: 0 B
+### requestAA
+GET http://localhost:8080/events/999 HTTP/1.1
+Accept: application/json
+Content-Length: 0
+

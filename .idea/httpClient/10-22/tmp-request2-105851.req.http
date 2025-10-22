@@ -1,0 +1,6 @@
+// Size: 0 B
+### request2
+GET http://localhost:8080/events?organizerId=101 HTTP/1.1
+Accept: application/json
+Content-Length: 0
+

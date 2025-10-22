@@ -1,0 +1,15 @@
+// Status: 500, time: 14ms, size: 111 B
+### requestAA
+GET http://localhost:8080/events/999 HTTP/1.1
+connection: close
+content-type: application/json
+date: Wed, 22 Oct 2025 08:56:12 GMT
+transfer-encoding: chunked
+
+{
+  "timestamp": "2025-10-22T08:56:12.117+00:00",
+  "status": 500,
+  "error": "Internal Server Error",
+  "path": "/events/999"
+}
+>> C:\Learning Java\tickets\.idea\httpClient\10-22\requestAA\2025-10-22T115612.json

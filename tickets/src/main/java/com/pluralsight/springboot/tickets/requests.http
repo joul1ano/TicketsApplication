@@ -1,0 +1,7 @@
+
+### requestAA
+
+POST http://localhost:8080/registrations
+Content-Type: application/json
+
+{"attendeeName":  "Tzouliano Giazai"}

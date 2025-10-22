@@ -1,0 +1,15 @@
+// Status: 404, time: 123ms, size: 119 B
+### requestAA
+GET http://localhost:8080/events/999 HTTP/1.1
+content-type: application/problem+json
+date: Wed, 22 Oct 2025 09:00:28 GMT
+transfer-encoding: chunked
+
+{
+  "type": "about:blank",
+  "title": "Not Found",
+  "status": 404,
+  "detail": "Event with id 999 not found",
+  "instance": "/events/999"
+}
+>> C:\Learning Java\tickets\.idea\httpClient\10-22\requestAA\2025-10-22T120028.json

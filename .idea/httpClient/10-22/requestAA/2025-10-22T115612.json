@@ -1,0 +1,6 @@
+{
+  "timestamp": "2025-10-22T08:56:12.117+00:00",
+  "status": 500,
+  "error": "Internal Server Error",
+  "path": "/events/999"
+}

@@ -1,0 +1,46 @@
+// Status: 200, time: 33ms, size: 607 B
+### request2
+GET http://localhost:8080/events?organizerId=101 HTTP/1.1
+content-type: application/json
+date: Wed, 22 Oct 2025 07:58:51 GMT
+transfer-encoding: chunked
+
+[
+  {
+    "id": 501,
+    "name": "Globomatics Tech Conference",
+    "organizer": {
+      "id": 101,
+      "name": "Globomatics",
+      "description": "Globomatics Technology Corporation"
+    },
+    "venue": {
+      "id": 201,
+      "name": "Globomatics Main Office",
+      "street": "Test Street 325",
+      "city": "New York",
+      "country": "USA"
+    },
+    "startDate": "2023-10-02",
+    "endDate": "2023-10-04"
+  },
+  {
+    "id": 502,
+    "name": "Globomatics Developer Day",
+    "organizer": {
+      "id": 101,
+      "name": "Globomatics",
+      "description": "Globomatics Technology Corporation"
+    },
+    "venue": {
+      "id": 201,
+      "name": "Globomatics Main Office",
+      "street": "Test Street 325",
+      "city": "New York",
+      "country": "USA"
+    },
+    "startDate": "2024-01-10",
+    "endDate": "2024-01-10"
+  }
+]
+>> C:\Learning Java\tickets\.idea\httpClient\10-22\request2\2025-10-22T105851.json

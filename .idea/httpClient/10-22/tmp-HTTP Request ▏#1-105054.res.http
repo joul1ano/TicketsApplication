@@ -1,0 +1,17 @@
+// Status: 404, time: 8ms, size: 89 B
+### HTTP Request ▏#1
+GET http://localhost:8080 HTTP/1.1
+content-type: application/json
+date: Wed, 22 Oct 2025 07:50:54 GMT
+transfer-encoding: chunked
+vary: Origin
+vary: Access-Control-Request-Method
+vary: Access-Control-Request-Headers
+
+{
+  "timestamp": "2025-10-22T07:50:54.781+00:00",
+  "status": 404,
+  "error": "Not Found",
+  "path": "/"
+}
+>> C:\Learning Java\tickets\.idea\httpClient\10-22\HTTP Request ▏#1\2025-10-22T105054.json

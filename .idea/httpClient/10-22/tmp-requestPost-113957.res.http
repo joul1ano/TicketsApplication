@@ -1,0 +1,14 @@
+// Status: 200, time: 9ms, size: 110 B
+### requestPost
+POST http://localhost:8080/registrations HTTP/1.1
+content-type: application/json
+date: Wed, 22 Oct 2025 08:39:57 GMT
+transfer-encoding: chunked
+
+{
+  "id": 3,
+  "productId": 801,
+  "ticketCode": "499739d4-1ebc-4e22-b0cd-37030641a944",
+  "attendeeName": "Tzouliano Giazai"
+}
+>> C:\Learning Java\tickets\.idea\httpClient\10-22\requestPost\2025-10-22T113957.json

@@ -1,0 +1,15 @@
+// Status: 400, time: 10ms, size: 104 B
+### requestAA
+POST http://localhost:8080/registrations HTTP/1.1
+connection: close
+content-type: application/json
+date: Wed, 22 Oct 2025 09:41:24 GMT
+transfer-encoding: chunked
+
+{
+  "timestamp": "2025-10-22T09:41:24.874+00:00",
+  "status": 400,
+  "error": "Bad Request",
+  "path": "/registrations"
+}
+>> C:\Learning Java\tickets\.idea\httpClient\10-22\requestAA\2025-10-22T124124.json

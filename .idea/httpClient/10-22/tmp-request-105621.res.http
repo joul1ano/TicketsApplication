@@ -1,0 +1,20 @@
+// Status: 200, time: 109ms, size: 161 B
+### request
+GET http://localhost:8080/organizers HTTP/1.1
+content-type: application/json
+date: Wed, 22 Oct 2025 07:56:21 GMT
+transfer-encoding: chunked
+
+[
+  {
+    "id": 101,
+    "name": "Globomatics",
+    "description": "Globomatics Technology Corporation"
+  },
+  {
+    "id": 102,
+    "name": "Carved Rock",
+    "description": "Carved Rock Sports Equipment"
+  }
+]
+>> C:\Learning Java\tickets\.idea\httpClient\10-22\request\2025-10-22T105621.json

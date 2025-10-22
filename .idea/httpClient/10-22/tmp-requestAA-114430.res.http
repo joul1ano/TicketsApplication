@@ -1,0 +1,15 @@
+// Status: 500, time: 132ms, size: 151 B
+### requestAA
+GET http://localhost:8080/registrations/499739d4-1ebc-4e22-b0cd-37030641a944 HTTP/1.1
+connection: close
+content-type: application/json
+date: Wed, 22 Oct 2025 08:44:30 GMT
+transfer-encoding: chunked
+
+{
+  "timestamp": "2025-10-22T08:44:30.319+00:00",
+  "status": 500,
+  "error": "Internal Server Error",
+  "path": "/registrations/499739d4-1ebc-4e22-b0cd-37030641a944"
+}
+>> C:\Learning Java\tickets\.idea\httpClient\10-22\requestAA\2025-10-22T114430.json

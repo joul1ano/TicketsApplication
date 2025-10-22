@@ -1,0 +1,7 @@
+// Size: 38 B
+### requestAA
+POST http://localhost:8080/registrations/ HTTP/1.1
+Content-Type: application/json
+Content-Length: 38
+
+{"attendeeName":  "Tzouliano Giazai"}
