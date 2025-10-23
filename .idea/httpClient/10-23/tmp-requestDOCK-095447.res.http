@@ -1,0 +1,15 @@
+// Status: 400, time: 12ms, size: 104 B
+### requestDOCK
+POST http://localhost:8080/registrations HTTP/1.1
+connection: close
+content-type: application/json
+date: Thu, 23 Oct 2025 06:54:47 GMT
+transfer-encoding: chunked
+
+{
+  "timestamp": "2025-10-23T06:54:47.811+00:00",
+  "status": 400,
+  "error": "Bad Request",
+  "path": "/registrations"
+}
+>> C:\Learning Java\tickets\.idea\httpClient\10-23\requestDOCK\2025-10-23T095447.json

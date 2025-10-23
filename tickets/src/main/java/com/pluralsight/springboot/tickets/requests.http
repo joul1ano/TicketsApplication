@@ -1,7 +1,13 @@
 
-### requestAA
+### requestDOCK
 
 POST http://localhost:8080/registrations
 Content-Type: application/json
 
-{"ProductId": 801,"attendeeName": "Tzouliano Giazai"}
+{"productId": 801,"attendeeName": "Tzouliano Giazai"}
+
+###requestDOCK2
+POST http://localhost:8080/registrations
+Content-Type: application/json
+
+{"productId": 802,"attendeeName": "John Smith"}

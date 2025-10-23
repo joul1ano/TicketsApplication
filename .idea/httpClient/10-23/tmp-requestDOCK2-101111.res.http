@@ -1,0 +1,14 @@
+// Status: 200, time: 18ms, size: 129 B
+### requestDOCK2
+POST http://localhost:8080/registrations HTTP/1.1
+content-type: application/json
+date: Thu, 23 Oct 2025 07:11:11 GMT
+transfer-encoding: chunked
+
+{
+  "id": "68f9d50f3708ecc5a2d62915",
+  "productId": 802,
+  "ticketCode": "fc8073f2-c0aa-482a-82dc-d301831c170b",
+  "attendeeName": "John Smith"
+}
+>> C:\Learning Java\tickets\.idea\httpClient\10-23\requestDOCK2\2025-10-23T101111.json

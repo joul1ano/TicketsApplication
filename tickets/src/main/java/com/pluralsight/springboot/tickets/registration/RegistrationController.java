@@ -20,7 +20,7 @@ public class RegistrationController {
     @PostMapping
     public Registration create(@RequestBody @Valid Registration registration) {
         String ticketCode = UUID.randomUUID().toString();
-        return registrationRepository.save(registration);
+        return registrationRepository.save(new Registration(null,registration.productId(),ticketCode,registration.attendeeName()));
     }
 
     @GetMapping(path = "/{ticketCode}")

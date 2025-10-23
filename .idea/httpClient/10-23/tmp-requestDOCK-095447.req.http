@@ -1,0 +1,7 @@
+// Size: 56 B
+### requestDOCK
+POST http://localhost:8080/registrations HTTP/1.1
+Content-Type: application/json
+Content-Length: 56
+
+{"ProductId": "801","attendeeName": "Tzouliano Giazai"}
